@@ -1,0 +1,3 @@
+* LAMMPSrun
+
+A fork of the [[https://wiki.fysik.dtu.dk/ase/ase/calculators/lammpsrun.html][LAMMPSrun calculator]] provided in [[https://wiki.fysik.dtu.dk/ase/index.html][ASE]].
